@@ -5,7 +5,7 @@ set up for Adam's Blightfall server: you crash-landed on a planet eaten by the T
 Thaumcraft, Tinkers' Construct, Blood Magic, Botania, Thermal Expansion and a huge
 Hardcore Questing storyline. Survive, push the blight back, keep Mission Outlook up.
 
-**Server address:** `ADDRESS_TBD` — already in your multiplayer list after import.
+**Server address:** `domination-influence.tun.ply.gg` — already in your multiplayer list after import.
 
 ## Install (4 steps)
 
